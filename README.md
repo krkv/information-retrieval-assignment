@@ -1,4 +1,4 @@
-Group 5
+Aalto University Information Retrieval Assignment
 ===========
 **Comparison scenario 5: Cross-language information retrieval**
 
